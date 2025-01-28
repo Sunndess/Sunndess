@@ -11,9 +11,23 @@ Soy una desarrolladora con experiencia en diseño web, seguridad de la informaci
 ---
 
 ## 🚀 Proyectos Destacados  
-- **[Portafolio Personal](https://sunndess.github.io/portfolio.github.io/):** Sitio web donde presento mis trabajos, habilidades y experiencia.  
-- **Gestión de Seguridad TI:** Desarrollo de un sistema básico para evaluar y gestionar riesgos en infraestructura TI.  
-- **UI/UX para Aplicaciones Web:** Diseño y prototipado de interfaces amigables para usuarios finales usando Figma y HTML/CSS.  
+### [Binary Encryptor](https://github.com/Sunndess/Binary_Encryptor)  
+- **Descripción:** Una extensión para Google que permite **encriptar y desencriptar texto** utilizando **JavaScript, HTML y CSS**.  
+- **Propósito:** Proyecto desarrollado como parte de un programa de la Universidad de Harvard.  
+- **Tecnologías:**  
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </p>
+
+### [TF Bonos FIE](https://github.com/Sunndess/TF-Bonos-FIE)  
+- **Descripción:** Aplicación en **C#** para el cálculo de bonos financieros como parte de un trabajo final del curso de finanzas.  
+- **Propósito:** Proveer a los usuarios de una herramienta para realizar cálculos precisos relacionados con bonos y evaluar datos financieros.  
+- **Tecnologías:**  
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  </p>
 
 ---
 
