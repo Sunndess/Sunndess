@@ -10,6 +10,11 @@ Soy una desarrolladora con experiencia en diseño web, seguridad de la informaci
 
 🎵 **Música que me inspira mientras codifico:**  
 
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a?si=19f10327f3174403)  
+*Reproduciendo ahora:*  
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ixbwbeBi5ufN4noUKmW5a?utm_source=generator" width="80%" height="100" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</p>  
 
 ---
 
